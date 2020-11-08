@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Smart Appointment Organiser</string>
+    <string name="cancel_appointment">Cancel appointment</string>
+    <string name="save">save</string>
+    <string name="add_new_client">Add new client</string>
+    <string name="select_date">Select Date</string>
+    <string name="from">From</string>
+    <string name="hyphen">-</string>
+    <string name="to">To</string>
+    <string name="cancel">Cancel</string>
+    <string name="note">Note</string>
+    <string name="tag">Tag</string>
+    <string name="appointment_title">Appointment Title</string>
+    <string name="temp_text">Lorem sets the marker right padding, applicable only with horizontal orientation sets the marker right padding, applicable only with horizontal orientation.</string>
+    <string name="demo_date">Date: 22–09-2020</string>
+    <string name="demo_end_time">2:30 pm</string>
+    <string name="demo_start">11:50 am</string>
+    <string name="time">Time:</string>
+    <string name="edit_appointment_option">edit appointment option</string>
+    <string name="location">Location</string>
+    <string name="note_title">Note Title</string>
+    <string name="filter">Filter</string>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="name">Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="let_s_add_n_an_appointment">Let\'s Add\n An Appointment</string>
+    <string name="logout">Logout</string>
+    <string name="delete">Delete</string>
+</resources>
